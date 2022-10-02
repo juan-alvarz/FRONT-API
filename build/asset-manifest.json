@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44afef6f.css",
+    "main.js": "/static/js/main.6d5d15ae.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/cover-landing-page.png": "/static/media/cover-landing-page.0e739a3d7531240eacc5.png",
+    "static/media/sad-dog.jpg": "/static/media/sad-dog.01fb76639de5957ec7af.jpg",
+    "static/media/loader.gif": "/static/media/loader.b6361a4d0c2b574a83a5.gif",
+    "static/media/pagination-left.png": "/static/media/pagination-left.f5a676f8852cf8535d4e.png",
+    "static/media/pagination-right.png": "/static/media/pagination-right.ed4a81d71a57328ab03e.png",
+    "static/media/search-icon.png": "/static/media/search-icon.535323abadef3ae21587.png",
+    "static/media/github.png": "/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/google.png": "/static/media/google.925e843be50e19fb78c3.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/FONDO-CREADO.png": "/static/media/FONDO-CREADO.f40a4667f3ec9c59bc28.png",
+    "index.html": "/index.html",
+    "main.44afef6f.css.map": "/static/css/main.44afef6f.css.map",
+    "main.6d5d15ae.js.map": "/static/js/main.6d5d15ae.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44afef6f.css",
+    "static/js/main.6d5d15ae.js"
+  ]
+}

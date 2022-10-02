@@ -2,6 +2,8 @@ import React, { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { getDog } from "../../redux/actions";
+import Loader from "../Loader.jsx";
+import Footer from "../Footer";
 import "./styles.css";
 
 //imagen-logo
@@ -70,9 +72,19 @@ export default function DetailCard() {
             </span>
           </Link>
         </div>
+        <Footer />
       </div>
     );
   } else {
-    return <div>Loading..</div>;
+    return (
+      <div className="nav-dog-detail">
+        <Link to="/home">
+          <span>
+            Back to <strong>Doggy App</strong>
+          </span>
+        </Link>
+        <Loader />
+      </div>
+    );
   }
 }

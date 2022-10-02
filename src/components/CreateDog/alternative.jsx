@@ -8,6 +8,7 @@ import {
 } from "../../redux/actions";
 //Styles
 import "./createDog.css";
+import Footer from "../Footer";
 
 // --------------------- VALIDATIONS ---------------------------------------------
 function validate(input) {
@@ -306,6 +307,7 @@ Años de vida */
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

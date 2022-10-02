@@ -1,5 +1,6 @@
 footer {
     /* position: fixed; */
+    padding-top: 1.3vh;
     bottom: 0;
     width: 100%;
 }
@@ -16,7 +17,7 @@ footer {
 }
 
 .contact-links {
-    background-color: #EEEEEE;
+    background-color: #B1C5C2;
     height: 100%
 }
 
@@ -26,7 +27,7 @@ footer {
     justify-content: center;
     height: 5vh;
     width: 100%;
-    background-color: #AAAAAA;
+    background-color: #B1C5C2;
     font-size: smaller;
 }
 
