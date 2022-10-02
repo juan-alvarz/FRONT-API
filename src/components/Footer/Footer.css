@@ -1,0 +1,43 @@
+footer {
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+}
+
+.contact-links img {
+    height: 65%;
+    margin: 1vh 5vh;
+    transition: .3s all;
+}
+
+
+.contact-links-main {
+    height: 6vh;
+}
+
+.contact-links {
+    background-color: #EEEEEE;
+    height: 100%
+}
+
+.about-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    width: 100%;
+    background-color: #AAAAAA;
+    font-size: smaller;
+}
+
+.about-footer a {
+    text-decoration: none;
+    padding-left: 5px;
+    color: #204759;
+    transition: .3s all
+}
+
+.about-footer a:hover {
+    color: rgb(69, 95, 108);
+    letter-spacing: 0.5px;
+}
